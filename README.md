@@ -1,6 +1,6 @@
 # BigMart Sales Big Data Analysis
 
- iProject big data untuk melakukan analisis data penjualan BigMart menggunakan teknologi NoSQL (MongoDB) dan distributed computing (Apache Spark).
+ Project big data untuk melakukan analisis data penjualan BigMart menggunakan teknologi NoSQL (MongoDB) dan distributed computing (Apache Spark).
 
 ## 📋 Daftar Isi
 - [Deskripsi Project](#deskripsi-project)
