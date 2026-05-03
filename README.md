@@ -83,14 +83,14 @@ docker run -d -p 27017:27017 --name mongodb mongo:latest
 ## 🚀 Cara Menggunakan
 
 ### Step 1: Verify Dataset (Opsional)
-Untuk mengecek apakah dataset memenuhi syarat (>15,000 baris):
+Untuk mengecek apakah dataset memenuhi syarat (>10,000 baris):
 ```bash
 python3 downlod-kaggle.py
 ```
 
 **Output yang diharapkan:**
 ```
-✅ Dataset memenuhi syarat (> 15.000 baris).
+✅ Dataset memenuhi syarat (> 10.000 baris).
 ```
 
 ### Step 2: Download & Process Data
